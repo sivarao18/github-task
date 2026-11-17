@@ -1,1 +1,3 @@
 registration logic
+
+Created registration branch and implementing new registration feature.
